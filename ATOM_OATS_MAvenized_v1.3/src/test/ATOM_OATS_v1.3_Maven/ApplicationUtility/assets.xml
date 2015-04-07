@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assets>
+<asset alias="ApplicationDBUtility" local="true" sourceType="file" type="SCRIPT">
+<location path="../ApplicationDBUtility" type="relative"/>
+</asset>
+<asset alias="CommonUtility" local="true" sourceType="file" type="SCRIPT">
+<location path="../CommonUtility" type="relative"/>
+</asset>
+<asset alias="atom_dbutil" local="true" sourceType="file" type="GENERICJAR">
+<location path="../ATOMJars/atom_dbutil.jar" type="relative"/>
+</asset>
+<asset alias="atom_parallel" local="true" sourceType="file" type="GENERICJAR">
+<location path="../ATOMJars/atom_parallel.jar" type="relative"/>
+</asset>
+<asset alias="atom_reports" local="true" sourceType="file" type="GENERICJAR">
+<location path="../ATOMJars/atom_reports.jar" type="relative"/>
+</asset>
+</assets>

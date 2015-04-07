@@ -1,0 +1,232 @@
+<HTML lang=en-US-ORACLE9I style="VISIBILITY: visible" dir=ltr><HEAD><TITLE>Oracle Applications Home Page</TITLE>
+<META name=generator content="Oracle UIX"><LINK rel=stylesheet type=text/css href="/OA_HTML/cabo/styles/cache/swan-desktop-custom-2_3_6_9-en-ie-windows.css" charset=UTF-8>
+<SCRIPT language=javascript src="/OA_HTML/cabo/oajsLibs/oafcoreR121.js"></SCRIPT>
+
+<SCRIPT language=javascript src="/OA_HTML/cabo/oajsLibs/oafb.js"></SCRIPT>
+
+<SCRIPT language=javascript src="/OA_HTML/cabo/oajsLibs/flexibleLayout.js"></SCRIPT>
+
+<SCRIPT language=javascript src="/OA_HTML/cabo/oajsLibs/mainMenuTree.js"></SCRIPT>
+
+<SCRIPT language=javascript src="/OA_HTML/cabo/oajsLibs/OAFSlideoutMenu.js"></SCRIPT>
+
+<SCRIPT language=javascript>function help_window() { help_win = window.open("http://wwwin-ts4cg1.cisco.com:8005/OA_HTML/help?locale=en_US&group=FND:LIBRARY:US&topic=US/FND/@ICX_FWK_LABS_HOME_PAGE", "help_win","resizable=yes,scrollbars=yes,toolbar=yes,width=600,height=500")}</SCRIPT>
+</HEAD>
+<BODY style="MARGIN-LEFT: 0px; MARGIN-TOP: 0px; MARGIN-RIGHT: 0px" onunload=_partialUnload()>
+<SCRIPT src="/OA_HTML/cabo/jsLibs/Common2_3_6_9.js"></SCRIPT>
+
+<FORM id=DefaultFormName style="MARGIN: 0px" method=post name=DefaultFormName action=/OA_HTML/OA.jsp?page=/oracle/apps/fnd/framework/navigate/webui/NewHomePG&amp;homePage=Y&amp;_ti=1040898023&amp;retainAM=Y&amp;addBreadCrumb=N&amp;OAMC=G&amp;oapc=3>
+<TABLE id=FwkErrorBeanId cellSpacing=0 cellPadding=0 width="100%" border=0>
+<TBODY>
+<TR>
+<TD></TD></TR></TBODY></TABLE><SPAN id=NtfWorklist title="Notification List">
+<TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=x1i cellSpacing=0 cellPadding=0 width="100%" border=0>
+<TBODY>
+<TR>
+<TD width="100%"></TD>
+<TD vAlign=middle align=right>
+<TABLE id=NtfWorklist-nb cellSpacing=0 cellPadding=0 border=0>
+<TBODY>
+<TR>
+<TD id=NtfWorklist-nb-i vAlign=middle><A onclick="_navBarSubmit('DefaultFormName', 'goto','N38',1,'1', '25','NtfWorklist');return false" href="#"><IMG border=0 alt="Select to view previous set" src="/OA_HTML/cabo/images/cache/ctnavp.gif"></A></TD>
+<TD><IMG src="/OA_HTML/cabo/images/swan/t.gif" width=5 height=1></TD>
+<TD vAlign=middle noWrap><A onclick="_navBarSubmit('DefaultFormName', 'goto','N38',1,'1', '25','NtfWorklist');return false" class=x41 href="#">Previous 25</A></TD>
+<TD><IMG src="/OA_HTML/cabo/images/swan/t.gif" width=5 height=1></TD>
+<TD vAlign=middle noWrap><SELECT onchange="_navChoiceSubmit(this, 'DefaultFormName','goto','N38',1,null,'NtfWorklist')" onfocus="this._lastValue = this.selectedIndex" id=M__Idhjg title="Select record set" class=OraFormFieldText><OPTION value=1,25>1-25</OPTION><OPTION selected value=26,25>26-50</OPTION><OPTION value=51,25>More...</OPTION></SELECT></TD>
+<TD><IMG src="/OA_HTML/cabo/images/swan/t.gif" width=5 height=1></TD>
+<TD vAlign=middle noWrap><A onclick="_navBarSubmit('DefaultFormName', 'goto','N38',1,'51', '25','NtfWorklist');return false" class=x41 href="#">Next 25</A></TD>
+<TD><IMG src="/OA_HTML/cabo/images/swan/t.gif" width=5 height=1></TD>
+<TD vAlign=middle><A onclick="_navBarSubmit('DefaultFormName', 'goto','N38',1,'51', '25','NtfWorklist');return false" href="#"><IMG border=0 alt="Select to view next set" src="/OA_HTML/cabo/images/cache/ctnavn.gif"></A></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+<TABLE class=x1h cellSpacing=0 cellPadding=1 width="100%" border=0>
+<TBODY>
+<TR>
+<TH onclick="_tableSortSubmit('DefaultFormName',1,'sort','N38','0','','NtfWorklist');return false" class="x20 x57" scope=col><A onclick="return false;" id=OASH__2685 class=x23 href="#">From</A></TH>
+<TH onclick="_tableSortSubmit('DefaultFormName',1,'sort','N38','1','ascending','NtfWorklist');return false" class="x20 x57" scope=col noWrap><A onclick="return false;" id=OASH__2688 class=x23 href="#">Type</A><A onclick="return false;" href="#"><IMG border=0 alt="Sorted in ascending order" src="/OA_HTML/cabo/images/cache/casort.gif" width=16 align=middle height=16></A></TH>
+<TH onclick="_tableSortSubmit('DefaultFormName',1,'sort','N38','2','','NtfWorklist');return false" class="x20 x57" scope=col><A onclick="return false;" id=OASH__2691 class=x23 href="#">Subject</A></TH>
+<TH onclick="_tableSortSubmit('DefaultFormName',1,'sort','N38','3','','NtfWorklist');return false" class="x20 x57" scope=col><A onclick="return false;" id=OASH__2694 class=x23 href="#">Sent</A></TH>
+<TH onclick="_tableSortSubmit('DefaultFormName',1,'sort','N38','4','','NtfWorklist');return false" class="x20 x57" scope=col><A onclick="return false;" id=OASH__2697 class=x23 href="#">Due</A></TH></TR>
+<TR>
+<TD class="x1l x50"><SPAN id=N38:NtfFromUser:0></SPAN><BR></TD>
+<TD class="x1l x50"><SPAN id=N38:NtfType:0 title="Type of this notification">PO Approval Error</SPAN></TD>
+<TD class="x1l x50"><A id=N38:NtfSubject:0 title="Document Manager Failed With Error Number  while processing Standard Purchase Order 13419477-4" class=xd href="OA.jsp?OAFunc=FND_WFNTF_DETAILS&amp;NtfId=29878746&amp;addBreadCrumb=Y&amp;retainAM=Y&amp;_ti=1040898023&amp;oapc=3">Document Manager Failed With Error Number while processing Standard Purchase Order 13419477-4</A></TD>
+<TD class="x1l x50" noWrap><SPAN id=N38:NtfSent:0 title="Date notification was sent">11-Jan-2014</SPAN></TD>
+<TD class="x1l x50" noWrap><SPAN id=N38:NtfDue:0></SPAN><BR></TD></TR>
+<TR>
+<TD class="x1l x50"><SPAN id=N38:NtfFromUser:1></SPAN><BR></TD>
+<TD class="x1l x50"><SPAN id=N38:NtfType:1 title="Type of this notification">PO Approval Error</SPAN></TD>
+<TD class="x1l x50"><A id=N38:NtfSubject:1 title="Document Manager Failed With Error Number  while processing Standard Purchase Order 53517578-2" class=xd href="OA.jsp?OAFunc=FND_WFNTF_DETAILS&amp;NtfId=26764223&amp;addBreadCrumb=Y&amp;retainAM=Y&amp;_ti=1040898023&amp;oapc=3">Document Manager Failed With Error Number while processing Standard Purchase Order 53517578-2</A></TD>
+<TD class="x1l x50" noWrap><SPAN id=N38:NtfSent:1 title="Date notification was sent">18-Oct-2013</SPAN></TD>
+<TD class="x1l x50" noWrap><SPAN id=N38:NtfDue:1></SPAN><BR></TD></TR>
+<TR>
+<TD class="x1l x50"><SPAN id=N38:NtfFromUser:2></SPAN><BR></TD>
+<TD class="x1l x50"><SPAN id=N38:NtfType:2 title="Type of this notification">PO Approval Error</SPAN></TD>
+<TD class="x1l x50"><A id=N38:NtfSubject:2 title="Document Manager Failed With Error Number  while processing Standard Purchase Order 53487361-2" class=xd href="OA.jsp?OAFunc=FND_WFNTF_DETAILS&amp;NtfId=26764225&amp;addBreadCrumb=Y&amp;retainAM=Y&amp;_ti=1040898023&amp;oapc=3">Document Manager Failed With Error Number while processing Standard Purchase Order 53487361-2</A></TD>
+<TD class="x1l x50" noWrap><SPAN id=N38:NtfSent:2 title="Date notification was sent">18-Oct-2013</SPAN></TD>
+<TD class="x1l x50" noWrap><SPAN id=N38:NtfDue:2></SPAN><BR></TD></TR>
+<TR>
+<TD class="x1l x50"><SPAN id=N38:NtfFromUser:3></SPAN><BR></TD>
+<TD class="x1l x50"><SPAN id=N38:NtfType:3 title="Type of this notification">PO Approval Error</SPAN></TD>
+<TD class="x1l x50"><A id=N38:NtfSubject:3 title="Document Manager Failed With Error Number  while processing Standard Purchase Order 53408385-52" class=xd href="OA.jsp?OAFunc=FND_WFNTF_DETAILS&amp;NtfId=26764231&amp;addBreadCrumb=Y&amp;retainAM=Y&amp;_ti=1040898023&amp;oapc=3">Document Manager Failed With Error Number while processing Standard Purchase Order 53408385-52</A></TD>
+<TD class="x1l x50" noWrap><SPAN id=N38:NtfSent:3 title="Date notification was sent">18-Oct-2013</SPAN></TD>
+<TD class="x1l x50" noWrap><SPAN id=N38:NtfDue:3></SPAN><BR></TD></TR>
+<TR>
+<TD class="x1l x50"><SPAN id=N38:NtfFromUser:4></SPAN><BR></TD>
+<TD class="x1l x50"><SPAN id=N38:NtfType:4 title="Type of this notification">PO Approval Error</SPAN></TD>
+<TD class="x1l x50"><A id=N38:NtfSubject:4 title="Document Manager Failed With Error Number  while processing Standard Purchase Order 53531128-1" class=xd href="OA.jsp?OAFunc=FND_WFNTF_DETAILS&amp;NtfId=26764235&amp;addBreadCrumb=Y&amp;retainAM=Y&amp;_ti=1040898023&amp;oapc=3">Document Manager Failed With Error Number while processing Standard Purchase Order 53531128-1</A></TD>
+<TD class="x1l x50" noWrap><SPAN id=N38:NtfSent:4 title="Date notification was sent">18-Oct-2013</SPAN></TD>
+<TD class="x1l x50" noWrap><SPAN id=N38:NtfDue:4></SPAN><BR></TD></TR>
+<TR>
+<TD class="x1l x50"><SPAN id=N38:NtfFromUser:5></SPAN><BR></TD>
+<TD class="x1l x50"><SPAN id=N38:NtfType:5 title="Type of this notification">PO Approval Error</SPAN></TD>
+<TD class="x1l x50"><A id=N38:NtfSubject:5 title="Document Manager Failed With Error Number  while processing Standard Purchase Order 13410931-3" class=xd href="OA.jsp?OAFunc=FND_WFNTF_DETAILS&amp;NtfId=29877276&amp;addBreadCrumb=Y&amp;retainAM=Y&amp;_ti=1040898023&amp;oapc=3">Document Manager Failed With Error Number while processing Standard Purchase Order 13410931-3</A></TD>
+<TD class="x1l x50" noWrap><SPAN id=N38:NtfSent:5 title="Date notification was sent">11-Jan-2014</SPAN></TD>
+<TD class="x1l x50" noWrap><SPAN id=N38:NtfDue:5></SPAN><BR></TD></TR>
+<TR>
+<TD class="x1l x50"><SPAN id=N38:NtfFromUser:6></SPAN><BR></TD>
+<TD class="x1l x50"><SPAN id=N38:NtfType:6 title="Type of this notification">PO Approval Error</SPAN></TD>
+<TD class="x1l x50"><A id=N38:NtfSubject:6 title="Document Manager Failed With Error Number  while processing Standard Purchase Order 53763609-1" class=xd href="OA.jsp?OAFunc=FND_WFNTF_DETAILS&amp;NtfId=29877281&amp;addBreadCrumb=Y&amp;retainAM=Y&amp;_ti=1040898023&amp;oapc=3">Document Manager Failed With Error Number while processing Standard Purchase Order 53763609-1</A></TD>
+<TD class="x1l x50" noWrap><SPAN id=N38:NtfSent:6 title="Date notification was sent">11-Jan-2014</SPAN></TD>
+<TD class="x1l x50" noWrap><SPAN id=N38:NtfDue:6></SPAN><BR></TD></TR>
+<TR>
+<TD class="x1l x50"><SPAN id=N38:NtfFromUser:7></SPAN><BR></TD>
+<TD class="x1l x50"><SPAN id=N38:NtfType:7 title="Type of this notification">PO Approval Error</SPAN></TD>
+<TD class="x1l x50"><A id=N38:NtfSubject:7 title="Document Manager Failed With Error Number  while processing Standard Purchase Order 53701564-1" class=xd href="OA.jsp?OAFunc=FND_WFNTF_DETAILS&amp;NtfId=29878647&amp;addBreadCrumb=Y&amp;retainAM=Y&amp;_ti=1040898023&amp;oapc=3">Document Manager Failed With Error Number while processing Standard Purchase Order 53701564-1</A></TD>
+<TD class="x1l x50" noWrap><SPAN id=N38:NtfSent:7 title="Date notification was sent">11-Jan-2014</SPAN></TD>
+<TD class="x1l x50" noWrap><SPAN id=N38:NtfDue:7></SPAN><BR></TD></TR>
+<TR>
+<TD class="x1l x50"><SPAN id=N38:NtfFromUser:8></SPAN><BR></TD>
+<TD class="x1l x50"><SPAN id=N38:NtfType:8 title="Type of this notification">PO Approval Error</SPAN></TD>
+<TD class="x1l x50"><A id=N38:NtfSubject:8 title="Document Manager Failed With Error Number  while processing Standard Purchase Order 53742997-4" class=xd href="OA.jsp?OAFunc=FND_WFNTF_DETAILS&amp;NtfId=29878649&amp;addBreadCrumb=Y&amp;retainAM=Y&amp;_ti=1040898023&amp;oapc=3">Document Manager Failed With Error Number while processing Standard Purchase Order 53742997-4</A></TD>
+<TD class="x1l x50" noWrap><SPAN id=N38:NtfSent:8 title="Date notification was sent">11-Jan-2014</SPAN></TD>
+<TD class="x1l x50" noWrap><SPAN id=N38:NtfDue:8></SPAN><BR></TD></TR>
+<TR>
+<TD class="x1l x50"><SPAN id=N38:NtfFromUser:9></SPAN><BR></TD>
+<TD class="x1l x50"><SPAN id=N38:NtfType:9 title="Type of this notification">PO Approval Error</SPAN></TD>
+<TD class="x1l x50"><A id=N38:NtfSubject:9 title="Document Manager Failed With Error Number  while processing Standard Purchase Order 53781998-1" class=xd href="OA.jsp?OAFunc=FND_WFNTF_DETAILS&amp;NtfId=29878657&amp;addBreadCrumb=Y&amp;retainAM=Y&amp;_ti=1040898023&amp;oapc=3">Document Manager Failed With Error Number while processing Standard Purchase Order 53781998-1</A></TD>
+<TD class="x1l x50" noWrap><SPAN id=N38:NtfSent:9 title="Date notification was sent">11-Jan-2014</SPAN></TD>
+<TD class="x1l x50" noWrap><SPAN id=N38:NtfDue:9></SPAN><BR></TD></TR>
+<TR>
+<TD class="x1l x50"><SPAN id=N38:NtfFromUser:10></SPAN><BR></TD>
+<TD class="x1l x50"><SPAN id=N38:NtfType:10 title="Type of this notification">PO Approval Error</SPAN></TD>
+<TD class="x1l x50"><A id=N38:NtfSubject:10 title="Document Manager Failed With Error Number 3 while processing Standard Purchase Order 53528004-1" class=xd href="OA.jsp?OAFunc=FND_WFNTF_DETAILS&amp;NtfId=28839383&amp;addBreadCrumb=Y&amp;retainAM=Y&amp;_ti=1040898023&amp;oapc=3">Document Manager Failed With Error Number 3 while processing Standard Purchase Order 53528004-1</A></TD>
+<TD class="x1l x50" noWrap><SPAN id=N38:NtfSent:10 title="Date notification was sent">13-Dec-2013</SPAN></TD>
+<TD class="x1l x50" noWrap><SPAN id=N38:NtfDue:10></SPAN><BR></TD></TR>
+<TR>
+<TD class="x1l x50"><SPAN id=N38:NtfFromUser:11></SPAN><BR></TD>
+<TD class="x1l x50"><SPAN id=N38:NtfType:11 title="Type of this notification">PO Approval Error</SPAN></TD>
+<TD class="x1l x50"><A id=N38:NtfSubject:11 title="Document Manager Failed With Error Number 3 while processing Standard Purchase Order 53528004-1" class=xd href="OA.jsp?OAFunc=FND_WFNTF_DETAILS&amp;NtfId=28839397&amp;addBreadCrumb=Y&amp;retainAM=Y&amp;_ti=1040898023&amp;oapc=3">Document Manager Failed With Error Number 3 while processing Standard Purchase Order 53528004-1</A></TD>
+<TD class="x1l x50" noWrap><SPAN id=N38:NtfSent:11 title="Date notification was sent">13-Dec-2013</SPAN></TD>
+<TD class="x1l x50" noWrap><SPAN id=N38:NtfDue:11></SPAN><BR></TD></TR>
+<TR>
+<TD class="x1l x50"><SPAN id=N38:NtfFromUser:12></SPAN><BR></TD>
+<TD class="x1l x50"><SPAN id=N38:NtfType:12 title="Type of this notification">PO Approval Error</SPAN></TD>
+<TD class="x1l x50"><A id=N38:NtfSubject:12 title="Document Manager Failed With Error Number 3 while processing Standard Purchase Order 13459174-18" class=xd href="OA.jsp?OAFunc=FND_WFNTF_DETAILS&amp;NtfId=32204415&amp;addBreadCrumb=Y&amp;retainAM=Y&amp;_ti=1040898023&amp;oapc=3">Document Manager Failed With Error Number 3 while processing Standard Purchase Order 13459174-18</A></TD>
+<TD class="x1l x50" noWrap><SPAN id=N38:NtfSent:12 title="Date notification was sent">17-Mar-2014</SPAN></TD>
+<TD class="x1l x50" noWrap><SPAN id=N38:NtfDue:12></SPAN><BR></TD></TR>
+<TR>
+<TD class="x1l x50"><SPAN id=N38:NtfFromUser:13></SPAN><BR></TD>
+<TD class="x1l x50"><SPAN id=N38:NtfType:13 title="Type of this notification">PO Approval Error</SPAN></TD>
+<TD class="x1l x50"><A id=N38:NtfSubject:13 title="Document Manager Failed With Error Number  while processing Standard Purchase Order 52678248-139" class=xd href="OA.jsp?OAFunc=FND_WFNTF_DETAILS&amp;NtfId=3317217&amp;addBreadCrumb=Y&amp;retainAM=Y&amp;_ti=1040898023&amp;oapc=3">Document Manager Failed With Error Number while processing Standard Purchase Order 52678248-139</A></TD>
+<TD class="x1l x50" noWrap><SPAN id=N38:NtfSent:13 title="Date notification was sent">12-Feb-2013</SPAN></TD>
+<TD class="x1l x50" noWrap><SPAN id=N38:NtfDue:13></SPAN><BR></TD></TR>
+<TR>
+<TD class="x1l x50"><SPAN id=N38:NtfFromUser:14></SPAN><BR></TD>
+<TD class="x1l x50"><SPAN id=N38:NtfType:14 title="Type of this notification">PO Approval Error</SPAN></TD>
+<TD class="x1l x50"><A id=N38:NtfSubject:14 title="Document Manager Failed With Error Number  while processing Standard Purchase Order 13338383-1" class=xd href="OA.jsp?OAFunc=FND_WFNTF_DETAILS&amp;NtfId=28593748&amp;addBreadCrumb=Y&amp;retainAM=Y&amp;_ti=1040898023&amp;oapc=3">Document Manager Failed With Error Number while processing Standard Purchase Order 13338383-1</A></TD>
+<TD class="x1l x50" noWrap><SPAN id=N38:NtfSent:14 title="Date notification was sent">06-Dec-2013</SPAN></TD>
+<TD class="x1l x50" noWrap><SPAN id=N38:NtfDue:14></SPAN><BR></TD></TR>
+<TR>
+<TD class="x1l x50"><SPAN id=N38:NtfFromUser:15></SPAN><BR></TD>
+<TD class="x1l x50"><SPAN id=N38:NtfType:15 title="Type of this notification">PO Approval Error</SPAN></TD>
+<TD class="x1l x50"><A id=N38:NtfSubject:15 title="Document Manager Failed With Error Number  while processing Standard Purchase Order 13341692-1" class=xd href="OA.jsp?OAFunc=FND_WFNTF_DETAILS&amp;NtfId=28593750&amp;addBreadCrumb=Y&amp;retainAM=Y&amp;_ti=1040898023&amp;oapc=3">Document Manager Failed With Error Number while processing Standard Purchase Order 13341692-1</A></TD>
+<TD class="x1l x50" noWrap><SPAN id=N38:NtfSent:15 title="Date notification was sent">06-Dec-2013</SPAN></TD>
+<TD class="x1l x50" noWrap><SPAN id=N38:NtfDue:15></SPAN><BR></TD></TR>
+<TR>
+<TD class="x1l x50"><SPAN id=N38:NtfFromUser:16></SPAN><BR></TD>
+<TD class="x1l x50"><SPAN id=N38:NtfType:16 title="Type of this notification">PO Approval Error</SPAN></TD>
+<TD class="x1l x50"><A id=N38:NtfSubject:16 title="Document Manager Failed With Error Number  while processing Standard Purchase Order 53662071-2" class=xd href="OA.jsp?OAFunc=FND_WFNTF_DETAILS&amp;NtfId=28593753&amp;addBreadCrumb=Y&amp;retainAM=Y&amp;_ti=1040898023&amp;oapc=3">Document Manager Failed With Error Number while processing Standard Purchase Order 53662071-2</A></TD>
+<TD class="x1l x50" noWrap><SPAN id=N38:NtfSent:16 title="Date notification was sent">06-Dec-2013</SPAN></TD>
+<TD class="x1l x50" noWrap><SPAN id=N38:NtfDue:16></SPAN><BR></TD></TR>
+<TR>
+<TD class="x1l x50"><SPAN id=N38:NtfFromUser:17></SPAN><BR></TD>
+<TD class="x1l x50"><SPAN id=N38:NtfType:17 title="Type of this notification">PO Approval Error</SPAN></TD>
+<TD class="x1l x50"><A id=N38:NtfSubject:17 title="Document Manager Failed With Error Number  while processing Standard Purchase Order 13342765-34" class=xd href="OA.jsp?OAFunc=FND_WFNTF_DETAILS&amp;NtfId=28593755&amp;addBreadCrumb=Y&amp;retainAM=Y&amp;_ti=1040898023&amp;oapc=3">Document Manager Failed With Error Number while processing Standard Purchase Order 13342765-34</A></TD>
+<TD class="x1l x50" noWrap><SPAN id=N38:NtfSent:17 title="Date notification was sent">06-Dec-2013</SPAN></TD>
+<TD class="x1l x50" noWrap><SPAN id=N38:NtfDue:17></SPAN><BR></TD></TR>
+<TR>
+<TD class="x1l x50"><SPAN id=N38:NtfFromUser:18></SPAN><BR></TD>
+<TD class="x1l x50"><SPAN id=N38:NtfType:18 title="Type of this notification">PO Approval Error</SPAN></TD>
+<TD class="x1l x50"><A id=N38:NtfSubject:18 title="Document Manager Failed With Error Number  while processing Standard Purchase Order 13355293-23" class=xd href="OA.jsp?OAFunc=FND_WFNTF_DETAILS&amp;NtfId=28593761&amp;addBreadCrumb=Y&amp;retainAM=Y&amp;_ti=1040898023&amp;oapc=3">Document Manager Failed With Error Number while processing Standard Purchase Order 13355293-23</A></TD>
+<TD class="x1l x50" noWrap><SPAN id=N38:NtfSent:18 title="Date notification was sent">06-Dec-2013</SPAN></TD>
+<TD class="x1l x50" noWrap><SPAN id=N38:NtfDue:18></SPAN><BR></TD></TR>
+<TR>
+<TD class="x1l x50"><SPAN id=N38:NtfFromUser:19></SPAN><BR></TD>
+<TD class="x1l x50"><SPAN id=N38:NtfType:19 title="Type of this notification">PO Approval Error</SPAN></TD>
+<TD class="x1l x50"><A id=N38:NtfSubject:19 title="Document Manager Failed With Error Number  while processing Standard Purchase Order 13343118-14" class=xd href="OA.jsp?OAFunc=FND_WFNTF_DETAILS&amp;NtfId=28593765&amp;addBreadCrumb=Y&amp;retainAM=Y&amp;_ti=1040898023&amp;oapc=3">Document Manager Failed With Error Number while processing Standard Purchase Order 13343118-14</A></TD>
+<TD class="x1l x50" noWrap><SPAN id=N38:NtfSent:19 title="Date notification was sent">06-Dec-2013</SPAN></TD>
+<TD class="x1l x50" noWrap><SPAN id=N38:NtfDue:19></SPAN><BR></TD></TR>
+<TR>
+<TD class="x1l x50"><SPAN id=N38:NtfFromUser:20></SPAN><BR></TD>
+<TD class="x1l x50"><SPAN id=N38:NtfType:20 title="Type of this notification">PO Approval Error</SPAN></TD>
+<TD class="x1l x50"><A id=N38:NtfSubject:20 title="Document Manager Failed With Error Number  while processing Standard Purchase Order 13330118-10" class=xd href="OA.jsp?OAFunc=FND_WFNTF_DETAILS&amp;NtfId=28593767&amp;addBreadCrumb=Y&amp;retainAM=Y&amp;_ti=1040898023&amp;oapc=3">Document Manager Failed With Error Number while processing Standard Purchase Order 13330118-10</A></TD>
+<TD class="x1l x50" noWrap><SPAN id=N38:NtfSent:20 title="Date notification was sent">06-Dec-2013</SPAN></TD>
+<TD class="x1l x50" noWrap><SPAN id=N38:NtfDue:20></SPAN><BR></TD></TR>
+<TR>
+<TD class="x1l x50"><SPAN id=N38:NtfFromUser:21></SPAN><BR></TD>
+<TD class="x1l x50"><SPAN id=N38:NtfType:21 title="Type of this notification">PO Approval Error</SPAN></TD>
+<TD class="x1l x50"><A id=N38:NtfSubject:21 title="Document Manager Failed With Error Number  while processing Standard Purchase Order 13348747-1" class=xd href="OA.jsp?OAFunc=FND_WFNTF_DETAILS&amp;NtfId=28593786&amp;addBreadCrumb=Y&amp;retainAM=Y&amp;_ti=1040898023&amp;oapc=3">Document Manager Failed With Error Number while processing Standard Purchase Order 13348747-1</A></TD>
+<TD class="x1l x50" noWrap><SPAN id=N38:NtfSent:21 title="Date notification was sent">06-Dec-2013</SPAN></TD>
+<TD class="x1l x50" noWrap><SPAN id=N38:NtfDue:21></SPAN><BR></TD></TR>
+<TR>
+<TD class="x1l x50"><SPAN id=N38:NtfFromUser:22></SPAN><BR></TD>
+<TD class="x1l x50"><SPAN id=N38:NtfType:22 title="Type of this notification">PO Approval Error</SPAN></TD>
+<TD class="x1l x50"><A id=N38:NtfSubject:22 title="Document Manager Failed With Error Number  while processing Standard Purchase Order 13350314-1" class=xd href="OA.jsp?OAFunc=FND_WFNTF_DETAILS&amp;NtfId=28593789&amp;addBreadCrumb=Y&amp;retainAM=Y&amp;_ti=1040898023&amp;oapc=3">Document Manager Failed With Error Number while processing Standard Purchase Order 13350314-1</A></TD>
+<TD class="x1l x50" noWrap><SPAN id=N38:NtfSent:22 title="Date notification was sent">06-Dec-2013</SPAN></TD>
+<TD class="x1l x50" noWrap><SPAN id=N38:NtfDue:22></SPAN><BR></TD></TR>
+<TR>
+<TD class="x1l x50"><SPAN id=N38:NtfFromUser:23></SPAN><BR></TD>
+<TD class="x1l x50"><SPAN id=N38:NtfType:23 title="Type of this notification">PO Approval Error</SPAN></TD>
+<TD class="x1l x50"><A id=N38:NtfSubject:23 title="Document Manager Failed With Error Number  while processing Standard Purchase Order 13355593-22" class=xd href="OA.jsp?OAFunc=FND_WFNTF_DETAILS&amp;NtfId=28593800&amp;addBreadCrumb=Y&amp;retainAM=Y&amp;_ti=1040898023&amp;oapc=3">Document Manager Failed With Error Number while processing Standard Purchase Order 13355593-22</A></TD>
+<TD class="x1l x50" noWrap><SPAN id=N38:NtfSent:23 title="Date notification was sent">06-Dec-2013</SPAN></TD>
+<TD class="x1l x50" noWrap><SPAN id=N38:NtfDue:23></SPAN><BR></TD></TR>
+<TR>
+<TD class="x1l x50"><SPAN id=N38:NtfFromUser:24></SPAN><BR></TD>
+<TD class="x1l x50"><SPAN id=N38:NtfType:24 title="Type of this notification">PO Approval Error</SPAN></TD>
+<TD class="x1l x50"><A id=N38:NtfSubject:24 title="Document Manager Failed With Error Number  while processing Standard Purchase Order 13331095-1" class=xd href="OA.jsp?OAFunc=FND_WFNTF_DETAILS&amp;NtfId=28593801&amp;addBreadCrumb=Y&amp;retainAM=Y&amp;_ti=1040898023&amp;oapc=3">Document Manager Failed With Error Number while processing Standard Purchase Order 13331095-1</A></TD>
+<TD class="x1l x50" noWrap><SPAN id=N38:NtfSent:24 title="Date notification was sent">06-Dec-2013</SPAN></TD>
+<TD class="x1l x50" noWrap><SPAN id=N38:NtfDue:24></SPAN><BR></TD></TR></TBODY></TABLE>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+<TBODY>
+<TR>
+<TD>
+<TABLE class=x1j cellSpacing=0 cellPadding=0 width="100%" border=0>
+<TBODY>
+<TR>
+<TD width="100%"></TD>
+<TD vAlign=middle align=right>
+<TABLE cellSpacing=0 cellPadding=0 border=0>
+<TBODY>
+<TR>
+<TD vAlign=middle><A onclick="_navBarSubmit('DefaultFormName', 'goto','N38',1,'1', '25','NtfWorklist');return false" href="#"><IMG border=0 alt="Select to view previous set" src="/OA_HTML/cabo/images/cache/ctnavp.gif"></A></TD>
+<TD><IMG src="/OA_HTML/cabo/images/swan/t.gif" width=5 height=1></TD>
+<TD vAlign=middle noWrap><A onclick="_navBarSubmit('DefaultFormName', 'goto','N38',1,'1', '25','NtfWorklist');return false" class=x41 href="#">Previous 25</A></TD>
+<TD><IMG src="/OA_HTML/cabo/images/swan/t.gif" width=5 height=1></TD>
+<TD vAlign=middle noWrap><SELECT onchange="_navChoiceSubmit(this, 'DefaultFormName','goto','N38',1,null,'NtfWorklist')" onfocus="this._lastValue = this.selectedIndex" id=M__Idijg title="Select record set" class=OraFormFieldText><OPTION value=1,25>1-25</OPTION><OPTION selected value=26,25>26-50</OPTION><OPTION value=51,25>More...</OPTION></SELECT></TD>
+<TD><IMG src="/OA_HTML/cabo/images/swan/t.gif" width=5 height=1></TD>
+<TD vAlign=middle noWrap><A onclick="_navBarSubmit('DefaultFormName', 'goto','N38',1,'51', '25','NtfWorklist');return false" class=x41 href="#">Next 25</A></TD>
+<TD><IMG src="/OA_HTML/cabo/images/swan/t.gif" width=5 height=1></TD>
+<TD vAlign=middle><A onclick="_navBarSubmit('DefaultFormName', 'goto','N38',1,'51', '25','NtfWorklist');return false" href="#"><IMG border=0 alt="Select to view next set" src="/OA_HTML/cabo/images/cache/ctnavn.gif"></A></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></SPAN><SPAN id=NtfWorklist-hv></SPAN><SPAN id=_DefaultFormName_Postscript><INPUT type=hidden name=_FORMEVENT><INPUT type=hidden name=serverValidate><INPUT type=hidden name=evtSrcRowIdx><INPUT type=hidden name=evtSrcRowId><INPUT type=hidden name=_FORM_SUBMIT_BUTTON><INPUT type=hidden name=event><INPUT type=hidden name=source><INPUT type=hidden name=value><INPUT type=hidden name=size><INPUT type=hidden name=partialTargets><INPUT type=hidden name=partial><INPUT type=hidden name=state><INPUT type=hidden name=AppsSearchTextEnterKey></SPAN></FORM>
+<SCRIPT id=_pprScripts>/*function _navBarSubmit(formName, gotoEvent, navBar, vld, val, sze, partialTargets){var i = val.indexOf(',');if (i >= 0){sze = val.substring(i+1);val = val.substring(0, i);}var submitFunc = (partialTargets == (void 0)) ? submitForm : _submitPartialChange;return submitFunc(formName,vld,{event:gotoEvent,source:navBar,value:val,size:sze,partialTargets:partialTargets});}function _navChoiceSubmit(choice, formName, gotoEvent, navBar, vld, size, partialTargets){if (!_navBarSubmit(formName, gotoEvent, navBar, vld, choice.options[choice.selectedIndex].value, size, partialTargets)){choice.selectedIndex = choice._lastValue;}};_setSelectIndexById("M__Idhjg",1);function _tableSortSubmit(formName,validate,sortEvent,table,val,stat,ptgt) {var submitFunc = (ptgt == (void 0)) ? submitForm : _submitPartialChange;submitFunc(formName,validate,{event:sortEvent,source:table,value:val,state:stat,partialTargets:ptgt });};_setSelectIndexById("M__Idijg",1);var _resetDefaultFormNameNames=["_FORMEVENT","serverValidate","evtSrcRowIdx","evtSrcRowId","_FORM_SUBMIT_BUTTON","event","source","value","size","partialTargets","partial","state","AppsSearchTextEnterKey"];;function _DefaultFormNameValidater(form){return true;}function _submitOnEnter(e,frm){if(_getKC(e)==13){submitForm(frm,1);return false;}}*/</SCRIPT>
+
+<SCRIPT>var _pprLibraries=['/OA_HTML/cabo/jsLibs/ScriptEval2_3_6_9.js'];</SCRIPT>
+
+<SCRIPT>var _pprTargets=['NtfWorklist','FwkErrorBeanId','_DefaultFormName_Postscript','NtfWorklist-hv'];</SCRIPT>
+
+<SCRIPT>document.body.style.marginLeft="0px";document.body.style.marginRight="0px";document.body.style.marginTop="0px";</SCRIPT>
+
+<SCRIPT>_partialChange()</SCRIPT>
+</BODY></HTML>
